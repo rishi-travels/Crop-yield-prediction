@@ -1,5 +1,5 @@
 # Crop yield prediction
 
-This is a NextJS based webapp.
+This is a AI/ML based webapp project.
 
-To get started, take a look at src/app/page.tsx.
+To visit the webapp click :https://studio-phi-lilac.vercel.app/
